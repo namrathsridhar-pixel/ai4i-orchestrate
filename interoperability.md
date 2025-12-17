@@ -1,7 +1,5 @@
 # Interoperability
 
-### Interoperability
-
 AI4I-Orchestrate is designed as a modular runtime layer that interoperates with adjacent systems across the Language AI lifecycle. It exposes well-defined APIs, data models, and feedback interfaces that allow it to integrate cleanly into broader ecosystems without creating tight coupling.
 
 Interoperability ensures that AI4I-Orchestrate can function as a shared runtime capability across domains, organizations, and platforms.

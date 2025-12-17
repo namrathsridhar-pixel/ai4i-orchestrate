@@ -1,7 +1,5 @@
 # System Architecture
 
-### System Architecture
-
 AI4I-Orchestrate follows a layered runtime architecture that clearly separates application interaction, governance decision-making, model selection, execution, and monitoring.
 
 #### Client Layer

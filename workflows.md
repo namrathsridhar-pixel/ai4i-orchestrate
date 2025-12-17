@@ -1,7 +1,5 @@
 # Deployment & Scalability
 
-### Deployment & Scalability
-
 AI4I-Orchestrate is designed for high-scale, multi-tenant deployment.
 
 * Supports millions of requests per day

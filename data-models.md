@@ -1,7 +1,5 @@
 # Data & Control Models
 
-### Data & Control Models
-
 #### Usage Event
 
 Captures operational metadata for every request, including tenant, API type, language, domain, model used, latency, error status, and cost units.

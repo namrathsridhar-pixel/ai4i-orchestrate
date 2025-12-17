@@ -1,7 +1,5 @@
 # Request Lifecycle & Control Flow
 
-### Request Lifecycle & Control Flow
-
 #### Standard Request Flow
 
 1. A client submits a Language AI request

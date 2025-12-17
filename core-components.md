@@ -1,7 +1,5 @@
 # Core Components
 
-### Core Runtime Components
-
 #### API Gateway
 
 Centralizes access to all Language AI services and enforces authentication, authorization, rate limiting, quotas, and request validation.

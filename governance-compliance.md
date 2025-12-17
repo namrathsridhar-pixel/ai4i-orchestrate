@@ -1,7 +1,5 @@
 # Governance & Compliance
 
-### Governance & Compliance
-
 AI4I-Orchestrate is designed to operate Language AI as governed digital infrastructure. Governance and compliance are enforced at the runtime layer, ensuring that all Language AI interactions adhere to defined policies, organizational controls, and regulatory requirements.
 
 #### Tenant Isolation

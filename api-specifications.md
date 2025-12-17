@@ -1,7 +1,5 @@
 # API Surface
 
-### API Surface
-
 AI4I-Orchestrate exposes a unified API surface for Language AI services.
 
 #### ASR APIs

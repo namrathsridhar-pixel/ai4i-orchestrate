@@ -1,7 +1,5 @@
 # Why AI4I-Orchestrate
 
-### Why AI4I-Orchestrate
-
 As Language AI systems scale, organizations typically integrate multiple models from different vendors and research groups. Each application often embeds its own logic for authentication, model selection, retries, monitoring, and cost control.
 
 This results in:
