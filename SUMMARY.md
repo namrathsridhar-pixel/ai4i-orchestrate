@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [Product Overview](product-overview.md)
+* [Overview](README.md)
 * [Architecture](architecture.md)
 * [Core Components](core-components.md)
 * [API Specifications](api-specifications.md)
