@@ -1,5 +1,6 @@
-# Summary
+# Table of contents
 
+* [README](README.md)
 * [Introduction](introduction.md)
 * [Product Overview](product-overview.md)
 * [Architecture](architecture.md)
