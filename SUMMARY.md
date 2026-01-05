@@ -5,6 +5,8 @@
 * [3. Capabilities & Scope](3.-capabilities-and-scope.md)
 * [4. Architecture & Design](4.-architecture-and-design.md)
 * [5. APIs & Interfaces](5.-apis-and-interfaces.md)
+* [6. Workflows & Usage](6.-workflows-and-usage.md)
+* [7. Deployment & Operations](7.-deployment-and-operations.md)
 * [Why AI4I-Orchestrate](why-ai4i-orchestrate.md)
 * [System Architecture](architecture.md)
 * [Core Components](core-components.md)
