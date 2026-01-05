@@ -1,6 +1,10 @@
 # Table of contents
 
-* [Overview](README.md)
+* [1. Introduction & Overview](README.md)
+* [2. Concepts & Terminology](2.-concepts-and-terminology.md)
+* [3. Capabilities & Scope](3.-capabilities-and-scope.md)
+* [4. Architecture & Design](4.-architecture-and-design.md)
+* [5. APIs & Interfaces](5.-apis-and-interfaces.md)
 * [Why AI4I-Orchestrate](why-ai4i-orchestrate.md)
 * [System Architecture](architecture.md)
 * [Core Components](core-components.md)
